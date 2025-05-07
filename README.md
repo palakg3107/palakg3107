@@ -1,16 +1,22 @@
-## Hi there!
+# 👋 Hi, I'm Palak!
 
-<!--
-**palakg3107/palakg3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergraduate passionate about building practical software projects.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages:** Python, Java, C++, HTML, CSS, C
+- **Tools:** Git & GitHub, VS Code
+- **Interests:** Web development, GUI applications, Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+- **Portfolio Website** – Responsive HTML/CSS site to showcase my work  
+- **Library Management System** – Python console app using file handling and OOP  
+- **Code Snippet Manager (WIP)** – GUI tool to organize and search code snippets in Python
+
+### 📫 Connect with me
+- **Email:** gulabanipalak31@gmail.com 
+- **LinkedIn:**  
+- **GitHub:** https://github.com/palakg3107
+
+---
+
+Thanks for visiting! 🚀
