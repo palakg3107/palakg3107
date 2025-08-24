@@ -13,9 +13,9 @@
 - **Code Snippet Manager (WIP)** – GUI tool to organize and search code snippets in Python
 
 ### 📫 Connect with me
-- **Email:** gulabanipalak31@gmail.com 
-- **LinkedIn:**  
-- **GitHub:** https://github.com/palakg3107
+- Email: gulabanipalak31@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/palak-gulabani-49b681305/ 
+- GitHub: https://github.com/palakg3107
 
 ---
 
