@@ -1,13 +1,17 @@
 👋 Hi, I'm Palak!
 
 💻 Computer Science undergraduate specializing in Big Data & AI
+
 🔹 Passionate about building practical software projects and data-driven solutions
+
 🔹 Always learning and exploring new technologies
 
 ⚡ Tech Stack
 
 Languages: Python, Java, C++, HTML, CSS, JavaScript
+
 Databases & Tools: MySQL, Git, GitHub, VS Code
+
 Interests: Web Development, Data Analytics, Object-Oriented Programming, Cloud & AI
 
 🚀 Projects
